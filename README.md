@@ -8,4 +8,7 @@ the video demo.
 
 - All Jupyter Notebook should be run under `src` working directory.
 
+- There are terribly a lot of files in this repository, so I recommend
+to download zip instead of cloning the whole repository.
+
 Enjoy!
