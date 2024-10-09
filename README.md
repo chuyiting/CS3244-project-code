@@ -14,3 +14,14 @@ the video demo.
 to download zip instead of cloning the whole repository.
 
 Enjoy!
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/f6781c9c-9bed-4f9b-ba93-6b15a7a16153" width="500"/></td>
+    <td><img src="https://github.com/user-attachments/assets/aae340a9-04e6-4baa-b5e1-d7e09210cf9a" width="500"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/89c1a6c6-b219-4735-90d7-65b4c88d695f" width="500"/></td>
+    <td><img src="https://github.com/user-attachments/assets/5600f8df-344d-4b7c-ba8c-5a29a514942f" width="500"/></td>
+  </tr>
+</table>
+
