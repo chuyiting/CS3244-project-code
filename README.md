@@ -1,4 +1,4 @@
-# CS3244 Project Codes
+# Real-Time Mask Detector
 
 - Tensorflow, OpenCV2, numpy, pydot, and matplotlib are required
 to run all codes properly.
